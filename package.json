@@ -1,0 +1,19 @@
+{
+  "name": "word-guess-cli",
+  "version": "1.0.0",
+  "description": "word guess game - utilizing command line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfdunn/Word-Guess-CLI.git"
+  },
+  "author": "Zach Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfdunn/Word-Guess-CLI/issues"
+  },
+  "homepage": "https://github.com/zfdunn/Word-Guess-CLI#readme"
+}
